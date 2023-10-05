@@ -1,16 +1,7 @@
 <p align="center">
-<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
-</p>
-
+<img width="960" alt="Screenshot 2023-10-06 020522" src="https://github.com/pratikshatamshetti0602/weather-api/assets/85298008/b54213b4-aca4-4259-84d3-592bb44ace1e">
+ </p>
+ 
 <p align="center">
-  View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
- </p>
- <p align="center">
-  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
- </p>
-
-## Setup
-
-```
-npm i && npm start
-```
+<img width="960" alt="Screenshot 2023-10-06 020447" src="https://github.com/pratikshatamshetti0602/weather-api/assets/85298008/95d7a1d9-83e2-488a-9d03-c22a7106b757">
+</p>
